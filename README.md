@@ -92,7 +92,7 @@ The schematic represents a simple voltage divider circuit designed to measure th
 
 Rt (Thermistor) (RF): The variable resistance that changes based on temperature. This resistance decreases as the temperature increases (Negative Temperature Coefficient or NTC thermistor).
 
-R0: A fixed resistor used in series with the thermistor to form a voltage divider.
+R0: (fixedResistance) A fixed resistor used in series with the thermistor to form a voltage divider.
 
 Vcc: The supply voltage for the circuit (typically 
 5
