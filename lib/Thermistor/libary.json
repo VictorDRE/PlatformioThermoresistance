@@ -1,0 +1,20 @@
+{
+    "name": "Thermistor",
+    "version": "1.0.0",
+    "description": "A library to measure temperature using a thermistor and Arduino.",
+    "keywords": ["thermistor", "temperature", "sensor"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ton_repository/Thermistor"
+    },
+    "authors": [
+      {
+        "name": "DREYER Victor",
+        "email": "victordreyder02@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+  }
+  
