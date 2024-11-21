@@ -86,7 +86,7 @@ adcValue = analogRead(A0).
 ![{ED0BA5C7-7322-4BA2-B599-808593129A7D}](https://github.com/user-attachments/assets/e39b7bf5-85a0-4b27-8884-6fb1f122696a)
 The schematic represents a simple voltage divider circuit designed to measure the resistance of a thermistor and calculate the corresponding temperature. The key components and their roles are:
 
-Rt (Thermistor): The variable resistance that changes based on temperature. This resistance decreases as the temperature increases (Negative Temperature Coefficient or NTC thermistor).
+Rt (Thermistor) (RF): The variable resistance that changes based on temperature. This resistance decreases as the temperature increases (Negative Temperature Coefficient or NTC thermistor).
 
 R0: A fixed resistor used in series with the thermistor to form a voltage divider.
 
@@ -94,6 +94,7 @@ Vcc: The supply voltage for the circuit (typically
 5
 V
 5V).
+![{A907C132-EAB6-437B-8A72-4EFBCA43115C}](https://github.com/user-attachments/assets/6ae4ee59-3970-415c-95b7-2b74a03ea32f)
 
 Vt: The voltage across the thermistor, which serves as the input to the ADC.
 
