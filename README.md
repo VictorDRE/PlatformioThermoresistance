@@ -94,7 +94,6 @@ Vcc: The supply voltage for the circuit (typically
 5
 V
 5V).
-![{A907C132-EAB6-437B-8A72-4EFBCA43115C}](https://github.com/user-attachments/assets/6ae4ee59-3970-415c-95b7-2b74a03ea32f)
 
 Vt: The voltage across the thermistor, which serves as the input to the ADC.
 
