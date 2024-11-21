@@ -78,7 +78,7 @@ adcResolution
 adcResolution
  −1.
 
-Example: adcValue = analogRead(A0).
+adcValue = analogRead(A0).
 
 ## Schematic
 - A thermistor is connected in series with a fixed resistor.
