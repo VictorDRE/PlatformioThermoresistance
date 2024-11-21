@@ -41,7 +41,7 @@ C
  C.
 R0: The fixed resistor value in the voltage divider circuit, also in Ohms.
 
-R0 = 1200.0.
+R0 = 1500.0.
 Beta: The thermistor's Beta coefficient, a characteristic of the thermistor material, given in Kelvin.
 
 Beta = 3275.0.
