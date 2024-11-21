@@ -25,7 +25,7 @@ T
 ​
  ), typically given in Ohms.
 
-Example: Rref = 1000.0 for a thermistor with 
+Rref = 1000.0 for a thermistor with 
 R
 R = 
 1
@@ -41,10 +41,10 @@ C
  C.
 R0: The fixed resistor value in the voltage divider circuit, also in Ohms.
 
-Example: R0 = 1200.0.
+R0 = 1200.0.
 Beta: The thermistor's Beta coefficient, a characteristic of the thermistor material, given in Kelvin.
 
-Example: Beta = 3275.0.
+Beta = 3275.0.
 T0: The reference temperature in Kelvin, typically 
 298.15
 K
@@ -57,16 +57,16 @@ C
 ∘
  C).
 
-Example: T0 = 298.15.
+T0 = 298.15.
 Vcc: The supply voltage for the circuit, often 
 5
 V
 5V.
 
-Example: Vcc = 5.0.
+Vcc = 5.0.
 adcResolution: The resolution of the ADC (Analog-to-Digital Converter), usually 10 bits for Arduino UNO.
 
-Example: adcResolution = 10.
+adcResolution = 10.
 adcValue: The digital value read from the ADC, ranging from 
 0
 0 to 
